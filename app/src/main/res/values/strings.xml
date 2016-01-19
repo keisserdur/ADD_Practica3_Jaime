@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ADD_Practica3_Jaime</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="str_titulo">Titulo</string>
+    <string name="str_disco">Disco</string>
+    <string name="str_duracion">Duracion</string>
+    <string name="str_autor">Autor</string>
+</resources>
